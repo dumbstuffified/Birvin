@@ -1,0 +1,8 @@
+C:\Users\Paul\source\repos\BirvinClientGenerator\BirvinClientGenerator\bin\Debug\BirvinClientGenerator.exe.config
+C:\Users\Paul\source\repos\BirvinClientGenerator\BirvinClientGenerator\bin\Debug\BirvinClientGenerator.exe
+C:\Users\Paul\source\repos\BirvinClientGenerator\BirvinClientGenerator\bin\Debug\BirvinClientGenerator.pdb
+C:\Users\Paul\source\repos\BirvinClientGenerator\BirvinClientGenerator\obj\Debug\BirvinClientGenerator.csproj.AssemblyReference.cache
+C:\Users\Paul\source\repos\BirvinClientGenerator\BirvinClientGenerator\obj\Debug\BirvinClientGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paul\source\repos\BirvinClientGenerator\BirvinClientGenerator\obj\Debug\BirvinClientGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\BirvinClientGenerator\BirvinClientGenerator\obj\Debug\BirvinClientGenerator.exe
+C:\Users\Paul\source\repos\BirvinClientGenerator\BirvinClientGenerator\obj\Debug\BirvinClientGenerator.pdb
